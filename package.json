@@ -1,0 +1,23 @@
+{
+  "name": "crypto-ticker",
+  "version": "1.0.0",
+  "description": "cryptocurrency price ticker",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divrse/crypto-ticker.git"
+  },
+  "author": "diverse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divrse/crypto-ticker/issues"
+  },
+  "homepage": "https://github.com/divrse/crypto-ticker#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
